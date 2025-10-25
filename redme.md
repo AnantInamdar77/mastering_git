@@ -1,5 +1,6 @@
-hey everyone wlcome to git guide
-yo bro whatsaap 
+Welcome to git
+-this is from ai
+hello git 
 #hello bro
 giytihjddjgf
 bcnxbcsmnbhjefkmsjfbjdbfjkb
