@@ -1,3 +1,5 @@
+Welcome to git
+-this is from ai
 hello git 
 #hello bro
 giytihjddjgf
